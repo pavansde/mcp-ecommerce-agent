@@ -5,7 +5,8 @@
     "status": "shipped",
     "amount": 1200,
     "product": "Wireless Headphones",
-    "order_date": "2026-09-01"
+    "order_date": "2026-09-01",
+    "refund_status": "requested"
   },
   {
     "order_id": "ORD-1002",
@@ -13,7 +14,8 @@
     "status": "pending",
     "amount": 800,
     "product": "Mechanical Keyboard",
-    "order_date": "2026-09-10"
+    "order_date": "2026-09-10",
+    "refund_status": "not_requested"
   },
   {
     "order_id": "ORD-1003",
@@ -21,7 +23,8 @@
     "status": "delivered",
     "amount": 2500,
     "product": "Smart Watch",
-    "order_date": "2026-08-20"
+    "order_date": "2026-08-20",
+    "refund_status": "requested"
   },
   {
     "order_id": "ORD-1004",
@@ -29,6 +32,7 @@
     "status": "cancelled",
     "amount": 1500,
     "product": "Gaming Mouse",
-    "order_date": "2026-09-05"
+    "order_date": "2026-09-05",
+    "refund_status": "not_requested"
   }
 ]

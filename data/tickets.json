@@ -1,0 +1,14 @@
+[
+  {
+    "ticket_id": "TKT-1001",
+    "customer_id": "CUS-101",
+    "issue": "Customer reported a problem with order ORD-1001 (Wireless Headphones) and requested assistance.",
+    "status": "open"
+  },
+  {
+    "ticket_id": "TKT-1002",
+    "customer_id": "CUS-101",
+    "issue": "Package arrived damaged (Order ORD-1003).",
+    "status": "open"
+  }
+]
